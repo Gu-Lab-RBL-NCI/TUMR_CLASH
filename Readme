@@ -1,2 +1,2 @@
-**CLASH analysis**
+# CLASH analysis
 Interactions between miRNA-mRNA target were analyzed from previously published CLASH datasets (Helwak et al., 2013). In there, 79 miRNAs had 50 or more different mRNA interactions (1-s2.0-S009286741300439X-mmc1). For each miRNA we analyzed the percentage of interactions that contained a canonical site or a TUMR sites, as described previously, on the mRNA segment of the chimeric read. Background frequencies for miRNA:TUMR sites were obtained analysing the percentage of TUMR sites on the mRNA segment of the chimeric read for any miRNA other than the one reported.
